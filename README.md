@@ -1,4 +1,4 @@
-# Hi 👋 I'm Farooq Abdullah
+# Hi 👋 I'm Farooq 
 
 <div align="center">
 
