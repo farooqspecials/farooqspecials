@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with 6+ years of experience
+- 💻 Software Engineer with 3+ years of experience
 - 🔍 Specialized in Software Quality Assurance & Test Automation
 - 🤖 Interested in AI-Assisted Software Testing
 - 📱 Developed mobile applications using React Native
