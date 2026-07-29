@@ -80,7 +80,6 @@
 
 ## 📊 GitHub Stats
 
-> Replace **farooqspecials** with your GitHub username.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=farooqspecials&theme=tokyonight)
 
