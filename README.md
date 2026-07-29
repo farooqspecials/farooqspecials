@@ -82,10 +82,6 @@
 
 > Replace **farooqspecials** with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farooqspecials&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farooqspecials&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=farooqspecials&theme=tokyonight)
 
 ---
